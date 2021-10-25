@@ -11,3 +11,6 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Add a new Search package with Helper and Options classes.
+
+### Changed
+- Updated package dependencies
