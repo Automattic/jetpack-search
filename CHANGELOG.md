@@ -13,4 +13,5 @@ This is an alpha version! The changes listed here are not final.
 - Add a new Search package with Helper and Options classes.
 
 ### Changed
+- Set `convertDeprecationsToExceptions` true in PHPUnit config.
 - Updated package dependencies
