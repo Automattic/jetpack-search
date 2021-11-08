@@ -11,6 +11,7 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Add a new Search package with Helper and Options classes.
+- Search: Migrate helper classes from Jetpack plugin
 
 ### Changed
 - Set `convertDeprecationsToExceptions` true in PHPUnit config.
