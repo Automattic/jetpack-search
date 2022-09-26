@@ -36,7 +36,7 @@
 		"@automattic/calypso-color-schemes": "2.1.1",
 		"@automattic/color-studio": "2.5.0",
 		"@automattic/jetpack-analytics": "^0.1",
-		"@automattic/jetpack-api": "^0.13",
+		"@automattic/jetpack-api": "^0.14",
 		"@automattic/jetpack-base-styles": "^0.3",
 		"@automattic/jetpack-components": "^0.21",
 		"@automattic/jetpack-connection": "^0.21",
