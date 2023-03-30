@@ -38,7 +38,7 @@
 		"@automattic/format-currency": "1.0.1",
 		"@automattic/jetpack-analytics": "workspace:*",
 		"@automattic/jetpack-api": "workspace:*",
-		"@automattic/jetpack-base-styles": "^0.4.2-alpha",
+		"@automattic/jetpack-base-styles": "^0.4.2",
 		"@automattic/jetpack-components": "workspace:*",
 		"@automattic/jetpack-connection": "workspace:*",
 		"@wordpress/base-styles": "4.19.0",
