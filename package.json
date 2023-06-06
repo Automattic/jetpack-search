@@ -1,6 +1,6 @@
 {
 	"name": "jetpack-search",
-	"version": "0.37.2-alpha",
+	"version": "0.37.2",
 	"description": "Package for Jetpack Search products",
 	"main": "main.js",
 	"directories": {
@@ -38,7 +38,7 @@
 		"@automattic/format-currency": "1.0.1",
 		"@automattic/jetpack-analytics": "workspace:*",
 		"@automattic/jetpack-api": "workspace:*",
-		"@automattic/jetpack-base-styles": "^0.6.0-alpha",
+		"@automattic/jetpack-base-styles": "^0.6.0",
 		"@automattic/jetpack-components": "workspace:*",
 		"@automattic/jetpack-connection": "workspace:*",
 		"@wordpress/base-styles": "4.25.0",
