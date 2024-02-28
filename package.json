@@ -36,7 +36,7 @@
 		"@automattic/color-studio": "2.5.0",
 		"@automattic/format-currency": "1.0.1",
 		"@automattic/jetpack-analytics": "^0.1.29",
-		"@automattic/jetpack-api": "^0.16.10",
+		"@automattic/jetpack-api": "^0.17.0-alpha",
 		"@automattic/jetpack-base-styles": "^0.6.17",
 		"@automattic/jetpack-components": "^0.49.0-alpha",
 		"@automattic/jetpack-connection": "^0.32.3",
