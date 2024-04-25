@@ -37,7 +37,7 @@
 		"@automattic/format-currency": "1.0.1",
 		"@automattic/jetpack-analytics": "^0.1.29",
 		"@automattic/jetpack-api": "^0.17.5",
-		"@automattic/jetpack-base-styles": "^0.6.22",
+		"@automattic/jetpack-base-styles": "^0.6.23-alpha",
 		"@automattic/jetpack-components": "^0.52.0",
 		"@automattic/jetpack-connection": "^0.33.8",
 		"@wordpress/base-styles": "4.46.0",
