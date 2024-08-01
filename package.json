@@ -38,7 +38,7 @@
 		"@automattic/jetpack-analytics": "^0.1.29",
 		"@automattic/jetpack-api": "^0.17.9",
 		"@automattic/jetpack-base-styles": "^0.6.28",
-		"@automattic/jetpack-components": "^0.55.4-alpha",
+		"@automattic/jetpack-components": "^0.55.4",
 		"@automattic/jetpack-connection": "^0.34.1",
 		"@wordpress/base-styles": "5.2.0",
 		"@wordpress/block-editor": "13.2.0",
