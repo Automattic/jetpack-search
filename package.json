@@ -1,6 +1,6 @@
 {
 	"name": "jetpack-search",
-	"version": "0.44.15-alpha",
+	"version": "0.44.16-alpha",
 	"description": "Package for Jetpack Search products",
 	"main": "main.js",
 	"directories": {
@@ -38,8 +38,8 @@
 		"@automattic/jetpack-analytics": "^0.1.30-alpha",
 		"@automattic/jetpack-api": "^0.17.11-alpha",
 		"@automattic/jetpack-base-styles": "^0.6.29",
-		"@automattic/jetpack-components": "^0.55.8-alpha",
-		"@automattic/jetpack-connection": "^0.35.2-alpha",
+		"@automattic/jetpack-components": "^0.55.9-alpha",
+		"@automattic/jetpack-connection": "^0.35.3-alpha",
 		"@wordpress/base-styles": "5.5.0",
 		"@wordpress/block-editor": "14.0.0",
 		"@wordpress/data": "10.5.0",
