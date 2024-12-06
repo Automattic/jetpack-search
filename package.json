@@ -40,7 +40,7 @@
 		"@automattic/jetpack-api": "^0.17.20",
 		"@automattic/jetpack-base-styles": "^0.6.38",
 		"@automattic/jetpack-components": "^0.64.1-alpha",
-		"@automattic/jetpack-connection": "^0.36.0",
+		"@automattic/jetpack-connection": "^0.36.1-alpha",
 		"@wordpress/base-styles": "5.13.0",
 		"@wordpress/block-editor": "14.8.0",
 		"@wordpress/data": "10.13.0",
