@@ -9,6 +9,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 This is an alpha version! The changes listed here are not final.
 
+### Changed
+- Updated package dependencies.
+
+### Fixed
+- Fix missing instant search dialog for themes like Rebalance
+
 ## [0.47.3] - 2024-12-09
 ### Changed
 - Updated package dependencies. [#40363]
