@@ -38,7 +38,7 @@
 		"@automattic/jetpack-analytics": "^0.1.36",
 		"@automattic/jetpack-api": "^0.20.0",
 		"@automattic/jetpack-base-styles": "^0.6.44",
-		"@automattic/jetpack-components": "^0.69.1",
+		"@automattic/jetpack-components": "^0.70.0-alpha",
 		"@automattic/jetpack-connection": "^0.39.3",
 		"@automattic/jetpack-shared-extension-utils": "^0.18.4",
 		"@wordpress/base-styles": "5.19.0",
