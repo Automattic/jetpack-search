@@ -37,7 +37,7 @@
 		"@automattic/format-currency": "1.0.1",
 		"@automattic/jetpack-analytics": "^0.1.36",
 		"@automattic/jetpack-api": "^0.20.1",
-		"@automattic/jetpack-base-styles": "^0.6.46-alpha",
+		"@automattic/jetpack-base-styles": "^0.7.0-alpha",
 		"@automattic/jetpack-components": "^0.72.3-alpha",
 		"@automattic/jetpack-connection": "^0.39.10-alpha",
 		"@automattic/jetpack-shared-extension-utils": "^0.18.11-alpha",
