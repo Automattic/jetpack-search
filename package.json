@@ -43,7 +43,7 @@
 		"@automattic/jetpack-api": "^1.0.12",
 		"@automattic/jetpack-base-styles": "^1.0.12",
 		"@automattic/jetpack-components": "^1.4.3-alpha",
-		"@automattic/jetpack-connection": "^1.4.23",
+		"@automattic/jetpack-connection": "^1.4.24-alpha",
 		"@automattic/jetpack-shared-extension-utils": "^1.4.2",
 		"@automattic/number-formatters": "^1.0.15",
 		"@wordpress/base-styles": "6.12.0",
