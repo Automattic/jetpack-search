@@ -41,7 +41,7 @@
 	"dependencies": {
 		"@automattic/calypso-color-schemes": "4.0.0",
 		"@automattic/color-studio": "4.1.0",
-		"@automattic/jetpack-analytics": "^1.0.9",
+		"@automattic/jetpack-analytics": "^1.0.10-alpha",
 		"@automattic/jetpack-api": "^1.0.23",
 		"@automattic/jetpack-base-styles": "^1.1.0",
 		"@automattic/jetpack-components": "^1.8.3",
