@@ -1,2 +1,6 @@
 # Automatically generated rules.
 /.git*	export-ignore
+
+# Package attributes file.
+/src/widgets/**/*.js                                     !production-exclude
+
