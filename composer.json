@@ -5,18 +5,18 @@
 	"license": "GPL-2.0-or-later",
 	"require": {
 		"php": ">=7.2",
-		"automattic/jetpack-connection": "^8.6.0",
+		"automattic/jetpack-connection": "^8.6.1-alpha",
 		"automattic/jetpack-assets": "^4.3.43",
 		"automattic/jetpack-constants": "^3.0.12",
-		"automattic/jetpack-status": "^6.1.7",
+		"automattic/jetpack-status": "^6.1.8-alpha",
 		"automattic/jetpack-config": "^3.1.3",
 		"automattic/jetpack-my-jetpack": "^5.38.3",
-		"automattic/jetpack-sync": "^4.42.0"
+		"automattic/jetpack-sync": "^4.42.1-alpha"
 	},
 	"require-dev": {
 		"yoast/phpunit-polyfills": "^4.0.0",
 		"automattic/jetpack-test-environment": "@dev",
-		"automattic/phpunit-select-config": "^1.0.8"
+		"automattic/phpunit-select-config": "^1.0.9-alpha"
 	},
 	"suggest": {
 		"automattic/jetpack-autoloader": "Allow for better interoperability with other plugins that use this package."
